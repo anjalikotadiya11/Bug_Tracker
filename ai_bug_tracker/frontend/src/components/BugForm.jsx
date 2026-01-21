@@ -1,0 +1,1 @@
+// Bug form component placeholder
